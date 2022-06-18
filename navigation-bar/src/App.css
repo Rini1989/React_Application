@@ -1,0 +1,74 @@
+.App {
+  text-align: center;
+  }
+  
+  .label{
+  display: block;
+  font-size: larger;
+  color: black;
+  padding: 5px;
+  }
+
+  
+  .input{
+  font-size: larger;
+  padding: 5px;
+  margin: 2px;
+  
+  }
+  .btn{
+  color: white;
+  background-color: #121111;
+  border-radius: 5px;
+  font-size: larger;
+  display: block;
+  padding: 5px;
+  margin: 10px auto;
+  }
+ 
+  .logoutbtn {
+    border-radius: 4px;
+    background: #808080;
+    padding: 10px 22px;
+    color: #000000;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    margin-left: 62%;
+      
+  }
+  
+  .messages{
+  display: flex;
+  justify-content: center;
+  }
+  
+  .error{
+  display: block;
+  background-color: red;
+  color: white;
+  width: fit-content;
+  height: 50px;
+  padding: 5px;
+  }
+  
+  .success{
+  display: block;
+  background-color: lightblue;
+  color: black;
+  width: fit-content;
+  height: 50px;
+  padding: 5px;
+  }
+
+  .userbutton{
+    height: 32px;
+    width: 80px;
+    border-radius: 11px;
+    border-color: aliceblue;
+  }
+  
